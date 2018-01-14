@@ -16,8 +16,9 @@
 /tmp/*
 !/log/.keep
 !/tmp/.keep
-
+.Ds_store
 /node_modules
 /yarn-error.log
 
 .byebug_history
+
